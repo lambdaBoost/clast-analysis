@@ -12,8 +12,8 @@ from PIL import Image
 import pandas as pd
 
 
-SOURCE_DIR = "C:\\Users\\ahall\\Documents\\projects\\clast-analysis\\processed_data\\LABELLED"
-DEST_DIR = "C:\\Users\\ahall\\Documents\\projects\\clast-analysis\\processed_data\\LINE_DETECTION"
+SOURCE_DIR = "..\\processed_data\\LABELLED"
+DEST_DIR = "..\\processed_data\\LINE_DETECTION"
 
 #image processing functions
 def preprocess (img_array):

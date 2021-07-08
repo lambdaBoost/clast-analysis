@@ -18,7 +18,7 @@ MAX_EPOCHS = 25
 MAX_NODES = 10000
 
 #read in input image
-img = cv2.imread('C:\\Users\\ahall\\Documents\\projects\\clast-analysis\\processed_data\\RAW\\N13920IMG-33.jpg')
+img = cv2.imread('C:\\Users\\ahall\\Documents\\projects\\clast-analysis\\clast-analysis-data\\raw_data\\RAW\\N13920IMG-33.jpg')
 
 #convert to binary
 thresh = 128
